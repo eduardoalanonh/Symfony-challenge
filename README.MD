@@ -10,7 +10,7 @@
 
 Clone o repositório
 
-    git clone https://github.com/eduardoalanonh/SymfonyChallenge.git
+    git clone https://github.com/eduardoalanonh/Symfony-challenge.git
 
 Mude para a pasta do projeto
 
