@@ -64,7 +64,7 @@ Ficaria assim http://localhost:8000/hash?less_attempts=5000&page=1&limit=40
 
 Onde o new_teste é o input de entrada e o 15 seria a quantidade de vezes que vai realizar o request
 
-    php bin/console symfony:test {INPUT DE ENTRADA} {NUMERO DE REQUESTES}
+    php bin/console symfony:test {INPUT DE ENTRADA} {NUMERO DE REQUESTS}
 
 ----------
 
